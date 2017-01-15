@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello world.
+
+My word is law.
